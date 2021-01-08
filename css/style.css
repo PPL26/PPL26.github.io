@@ -177,12 +177,12 @@ html, body {
 }
 
 .site-logo img {
-    padding-bottom: 2px;
+    padding-bottom: 0px;
 }
 
 /* Navigation */
 .navbar-nav > li > a {
-    padding: 5px 0;
+    padding: 0px 0;
     font-weight: 600;
     color: #212121;
     text-transform: uppercase;
